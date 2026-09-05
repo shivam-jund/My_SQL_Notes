@@ -314,17 +314,3 @@ RTO                            → Acceptable DOWNTIME
 ```
 
 ---
-
-## 18. Series Status & What's Next
-
-**📚 Roadmap coverage through Part 42:**
-
-| Phases Covered | Topics |
-|---|---|
-| 1–18 | Fundamentals → Setup → DDL → Data Types → CRUD → Filtering → Constraints → Aggregates → HAVING → Joins → Multi-table Queries → Subqueries → CTEs → Window Functions → String Functions → Date/Time Functions → Math Functions → Conditional Expressions → Views |
-| 19–23 | Indexes (full) → Transactions & ACID → Functions & Procedures (PL/pgSQL) → Triggers → Query Optimization (execution plans, joins, CTE vs subquery, partitioning) |
-| 24–26 | Security (Users, Roles, Privileges, GRANT/REVOKE) → Backup & Restore (`pg_dump`, `pg_restore`, `pg_dumpall`, WAL/PITR/RPO/RTO) |
-
-That's **Parts 1 through 42**, covering your entire roadmap end to end — from "what is a database?" through production-grade backup and recovery strategy.
-
-💡 Once you're ready, the natural next steps per your original roadmap are the remaining applied phases: **Real Database Design** (schema design for library/hospital/banking/e-commerce systems), **SQL Interview Question practice** (LeetCode/HackerRank/StrataScratch-style problems), **Mini Projects**, and **Integrating SQL with a programming language** (Python/Node/Java via `psycopg`/`pg`/JDBC). Send those notes whenever you have them, and I'll continue at Part 43.
